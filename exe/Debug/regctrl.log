@@ -1,0 +1,8 @@
+﻿  Building 'regctrl' with toolset 'WindowsApplicationForDrivers10.0' and the 'Desktop' target platform.
+  capture.c
+  post.c
+  pre.c
+  regctrl.c
+  util.c
+  Создание кода...
+  regctrl.vcxproj -> D:\Users\Downloads\Windows-driver-samples-master\Windows-driver-samples-master\general\registry\regfltr\exe\Debug\regctrl.exe

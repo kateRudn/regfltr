@@ -1,0 +1,7 @@
+﻿  Building 'regctrl' with toolset 'WindowsApplicationForDrivers10.0' and the 'Desktop' target platform.
+  regctrl.c
+D:\Users\Downloads\Windows-driver-samples-master\Windows-driver-samples-master\general\registry\regfltr\exe\regctrl.c(90,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  util.c
+  Создание кода...
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+  regctrl.vcxproj -> D:\Users\Downloads\Windows-driver-samples-master\Windows-driver-samples-master\general\registry\regfltr\exe\x64\Release\regctrl.exe

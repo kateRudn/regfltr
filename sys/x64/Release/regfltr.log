@@ -1,0 +1,13 @@
+﻿  Building 'regfltr' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  driver.c
+  regfltr.c
+  txrutil.c
+  util.c
+  Создание кода...
+D:\Users\Downloads\Windows-driver-samples-master\Windows-driver-samples-master\general\registry\regfltr\sys\regfltr.c(116,1): warning C4267: инициализация: преобразование из "size_t" в "ULONG"; возможна потеря данных
+  regfltr.vcxproj -> D:\Users\Downloads\Windows-driver-samples-master\Windows-driver-samples-master\general\registry\regfltr\sys\x64\Release\regfltr.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Users\Downloads\Windows-driver-samples-master\Windows-driver-samples-master\general\registry\regfltr\sys\x64\Release\regfltr.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

@@ -1,0 +1,6 @@
+{
+"myprog.exe":"highlevel",
+"myprog2.exe":"mediumlevel",
+"myprog3.exe":"lowlevel",
+"Test":"mediumlevel"
+}
